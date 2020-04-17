@@ -11,6 +11,6 @@ const Character = () => {
         <div></div>
     )
 
-
-
 }
+
+export default Character;
